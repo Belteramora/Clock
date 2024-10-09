@@ -1,0 +1,1 @@
+A test project made in Unity. Has a clock that sync with current time (Moscow time) by requesting to Yandex.Time. Another feature is changing time by moving arrows or change text in edit mode. Have some bugs.
